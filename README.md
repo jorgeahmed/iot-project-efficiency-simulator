@@ -3,6 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)
 ![Pandas](https://img.shields.io/badge/Data-Pandas-150458?style=for-the-badge&logo=pandas)
 ![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![Code Style](https://img.shields.io/badge/Code%20Style-Black-000000?style=for-the-badge)
 
 ## 📌 Business Case
 In industrial infrastructure projects, **maintenance costs** and **energy inefficiency** often account for up to 30% of OpEx. This project simulates an IoT monitoring solution designed to predict equipment failure and optimize energy consumption.
